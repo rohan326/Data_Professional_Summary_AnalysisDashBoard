@@ -1,4 +1,4 @@
-# Data_Professional_Summary_AnalysisDashBoard
+# Data_Professional_Summary_AnalysisDashBoard_PowerBI
 
 This repository contains a Power BI dashboard project analyzing a dataset of 630 data professionals across various roles and countries. The dashboard provides insights into job satisfaction, salary trends, programming language preferences, and the difficulty of entering data science roles.
 
